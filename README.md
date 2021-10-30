@@ -11,5 +11,5 @@ $ pkg install git
 $ git clone https://github.com/Dian-Rizki-P/fbcracker
 $ cd fbcracker
 $ pip2 install -r requirements.txt
-$ python2 go.py
+$ python2 hmt.py
 ````
